@@ -14,12 +14,13 @@
       "ui"
     ],
     "RepoUrl": "https://github.com/CuteNijika/VoiceCommander",
+    "IconUrl": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1791390968
+    "LastUpdate": 1791391620
   }
 ]
