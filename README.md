@@ -20,7 +20,7 @@
 
 1. 打开游戏，输入 `/xlsettings`
 2. 找到**实验性功能**区块 → **自定义插件仓库（Custom Plugin Repositories）**
-3. 粘贴本仓库 `repo.json` 的链接：`https://gitee.com/CuteNijika/VoiceCommander/raw/master/repo.json`
+3. 粘贴本仓库 `repo.json` 的链接：`https://gitee.com/CuteNijika/VoiceCommander/raw/main/repo.json`
 4. **⚠️ 必须把这条仓库前面的框打上勾**（很多人漏了这步导致搜不到插件）
 5. 保存，然后 `/xlplugins` → 搜索「小月同学」→ 安装并启用
 
