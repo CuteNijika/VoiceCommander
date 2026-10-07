@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "CuteNijika",
+    "Name": "小月同学 VoiceCommander",
+    "Punchline": "说一句话，执行游戏命令",
+    "Description": "用系统自带的中文语音识别做命令词控制：先说唤醒词，再说命令词，插件就把对应的 slash 命令（如 /xlplugins）交给卫月执行。支持免唤醒模式、自定义麦克风设备、一行多说法与拖动排序。全程离线、无需联网。指令 /vc：开关 | ui 设置 | status 状态 | wake 唤醒词 | add/del 映射 | run 测试 | list | reload。",
+    "InternalName": "VoiceCommander",
+    "AssemblyVersion": "1.0.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "utility",
+      "voice",
+      "ui"
+    ],
+    "RepoUrl": "https://github.com/CuteNijika/VoiceCommander",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/CuteNijika/VoiceCommander/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1791390968
+  }
+]
